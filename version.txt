@@ -1,2 +1,2 @@
 2.0.1
-https://raw.githubusercontent.com/lichengjiumeng/InvoiceHelper/main/invoice.exe
+https://raw.githubusercontent.com/lichengjiumeng/InvoiceHelper/main/Helper1.0.zip
