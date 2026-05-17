@@ -1,2 +1,2 @@
 2.0.1
-https://ghproxy.com/https://raw.githubusercontent.com/lichengjiumeng/InvoiceHelper/main/Helper1.0.zip
+https://raw.githubusercontent.com/lichengjiumeng/InvoiceHelper/main/Helper1.0.zip
